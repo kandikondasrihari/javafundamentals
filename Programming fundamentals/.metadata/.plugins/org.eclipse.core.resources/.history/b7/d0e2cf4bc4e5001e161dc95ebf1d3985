@@ -1,0 +1,8 @@
+package Day1;
+
+public class Flipkart {
+	String productname = "cheetos";
+	int price = "2", noofitems = "5";
+	
+	
+}
